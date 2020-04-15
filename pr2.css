@@ -3,7 +3,7 @@ body{
 }
 video{
     position: fixed;
-    top: 50%;
+    top: 80%;
     left: 50%;
     margin-top: -50%;
     margin-left: -50%;
